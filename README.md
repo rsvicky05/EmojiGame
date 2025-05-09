@@ -8,8 +8,6 @@ In this project, I build an **Emoji Game** by applying the concepts I have learn
 </div>
 <br/>
 
-### Design Files
-
 
 ### Set Up Instructions
 
@@ -107,18 +105,6 @@ Files used for complete the implementation:
 
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The emojis should have the alt as the value of the key `emojiName` from each emoji object
-
-</details>
 
 ### Resources
 
@@ -160,9 +146,3 @@ Files used for complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.

@@ -1,0 +1,19 @@
+.card-con {
+  background-color: #ffffff33;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin: 7px;
+}
+
+.emoji {
+  background-color: transparent;
+  outline: 0px;
+  border: 0px;
+  cursor: pointer;
+}
+

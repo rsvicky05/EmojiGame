@@ -1,0 +1,23 @@
+.bg-con {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+
+.cards {
+  width: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+

@@ -1,4 +1,4 @@
-In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
+In this project, I build an **Emoji Game** by applying the concepts I have learned till now.
 
 ### Refer to the image below:
 
@@ -10,15 +10,6 @@ In this project, let's build an **Emoji Game** by applying the concepts we have 
 
 ### Design Files
 
-<details>
-<summary>Click to view</summary>
-
-- [Extra Small (Size < 576px), Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/emoji-game-sm-outputs.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Game View](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lg-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Won Game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-won-game-lg-output.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Lose Game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lose-game-lg-output.png)
-
-</details>
 
 ### Set Up Instructions
 
@@ -32,10 +23,10 @@ In this project, let's build an **Emoji Game** by applying the concepts we have 
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
-The app must have the following functionalities
+The app having following functionalities
 
 - Initially, the _Score_ and _Total Score_ for the current game should be **0**
 - When an **Emoji** is clicked,
@@ -81,7 +72,7 @@ The app must have the following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Files used for complete the implementation:
 
 - `src/components/EmojiGame/index.js`
 - `src/components/EmojiGame/index.css`
